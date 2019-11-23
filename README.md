@@ -1,5 +1,5 @@
 # Hope's Weather Hub
-#Technology Used
+# Technology Used
 Open Weather API; HTML; CSS; JS
 # Features
 Can search by zip code, city and state
