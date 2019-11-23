@@ -1,15 +1,15 @@
-#Hope's Weather Hub
-#Technology Used
+# Hope's Weather Hub
+# Technology Used
 Open Weather API; HTML; CSS; JS
-#Features
+# Features
 Can search by zip code, city and state
 Current Weather, Hourly, Daily and Weekly Forecasts provided
-#User Stories
+# User Stories
 Design Spike
 HTML/CSS
 JavaScript/API
-#Wireframes
+# Wireframes
 To be added
-#Stretch Goals/Future Goals
+# Stretch Goals/Future Goals
 To include more functionality maybe multiple APIs
 
