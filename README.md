@@ -11,5 +11,6 @@ JavaScript/API
 # Wireframes
 To be added
 # Stretch Goals/Future Goals
-To include more functionality maybe multiple APIs
+To include more functionality maybe multiple 
+Also include more links
 
